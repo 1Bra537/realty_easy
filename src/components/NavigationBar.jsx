@@ -8,6 +8,7 @@ export default function NavigationBar() {
         <li>Contact</li>
         <li>Extra update to verify vercel and Github</li>
         <li>Extra update to verify vercel part using chatgptgit</li>
+        <li>Refreshed update</li>
       </ul>
     </nav>
   )
