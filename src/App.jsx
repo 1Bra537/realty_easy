@@ -1,15 +1,6 @@
-import Home from "./components/Home"
-import Login from "./components/Login"
-import NavigationBar from "./components/NavigationBar" 
-function App() {
+import Home from "./home/Home";
 
-  return (
-   <div>
-    <NavigationBar />
-    <Login />
-    <Home />
-   </div>
-  )
+function App (){
+  return <Home />;
 }
-
-export default App
+export default App;
