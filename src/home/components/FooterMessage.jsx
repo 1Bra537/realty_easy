@@ -4,8 +4,7 @@ function FooterMessage(){
   return (
     <div className="footer-message">
       <p>
-        Building trust, connecting land owners and investors — welcome to Getty
-        Land.
+        Building trust, connecting land owners and investors — welcome to Land Invest.
       </p>
     </div>
   );
