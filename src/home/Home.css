@@ -37,7 +37,7 @@
 }
 
 .investor-btn {
-  background-color: #1f7a5b;
+  background-color: seagreen;
   color: #ffffff;
 }
 
@@ -57,12 +57,12 @@
   margin-bottom: 1%;
   text-align: center;
   font-size: 24px;
-  color: #555;
+  color:black;
 }
 
 .login-prompt span {
 
-  color: black;
+  color: rgb(0, 225, 255);
   font-weight: 1000;
   cursor: pointer;
 
@@ -72,7 +72,7 @@
 .footer-message {
   text-align: center;
   font-size: 25px;
-  color: #777;
+  color: black;
 }
 .logo{
   text-align: center;

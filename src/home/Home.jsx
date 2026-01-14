@@ -1,17 +1,15 @@
 import React from "react";
  import "./Home.css";
-import Header from "./components/Header";
 import RoleButtons from "./components/RoleButtons";
 import LoginPrompt from "./components/LoginPrompt";
 import FooterMessage from "./components/FooterMessage";
-import Logo from "./components/Logo";
+import Navbar from "./components/Navbar";
 
 const Home = () => {
   return (
     <div className="home-container">
-      <Header />
-      <Logo />
-      <RoleButtons />
+       <Navbar />
+       <RoleButtons />
       <LoginPrompt />
        <FooterMessage />
     </div>
